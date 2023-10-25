@@ -1,7 +1,6 @@
 # Static Fire Test Code & Electronics
 
 <img width="533" alt="Screenshot 2023-10-24 at 11 37 10 PM" src="https://github.com/joeyheo/Static-Fire-Electronics/assets/73047475/4ef9ee04-e083-4309-8739-dc798dc6bf6d">
-![Schematics](https://github.com/joeyheo/Static-Fire-Electronics/assets/73047475/ac351a60-c2a7-4804-be90-bcac17c62bb2)
 
 
 ## Overview
