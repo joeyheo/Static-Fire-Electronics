@@ -67,10 +67,7 @@ Rocket engine testing is a high-risk procedure. It's paramount to abide by safet
 ## Disclaimer:
 
 Utilize this code and its associated hardware components at your own discretion and risk. Neither Joey Heo, Vega Space & Propulsion Lab, nor any associated parties bear responsibility for any damages, injuries, or mishaps resulting from its use. For maximum safety, always have precautionary measures in place and seek advice from relevant experts when necessary.
-
 ---
-
-**Note:** This README offers a succinct explanation of the code and its operational nuances. For a more comprehensive understanding, consider integrating detailed instructions, images, or diagrams, especially if the setup is intended for a wider audience.
 
 ![IMG_2967](https://user-images.githubusercontent.com/73047475/109959579-08d25580-7d2b-11eb-9709-972895e61af2.jpg)
 ![IMG_2968](https://user-images.githubusercontent.com/73047475/109959142-703bd580-7d2a-11eb-8058-3b848d5a9cca.jpg)
